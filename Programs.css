@@ -1,5 +1,41 @@
+    
 body {
-  font-size: 20px
+  font-size: 20px;
+  background-image: url("backgroundimage2.jpg");
+  border: 2px solid black;
+    padding: 25px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+h1{font-size: 20px; text-align: center;
+
+
+}
+
+h2{font-size: 20px; text-align: center;
+
+
+}
+
+h3{font-size: 20px; text-align: center;
+
+
+}
+
+h4{font-size: 20px; text-align: center;
+
+
+}
+
+h5{font-size: 20px; text-align: center;
+
+}
+
+h6{font-size: 20px; text-align: center;
+
+}
+
+.h7{font-size: 20px; text-align: center; font-weight: bold;
 
 
 }
